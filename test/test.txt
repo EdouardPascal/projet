@@ -1,0 +1,5 @@
+#import os
+from multipli import *
+nombre1= input("Entrez le premier nombre ")
+nombre2= input("Entrez le deuxieme nombre ")
+print addition(nombre1,nombre2)
